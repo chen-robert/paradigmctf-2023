@@ -1,0 +1,11 @@
+name: Jumbled Otter Problems
+author: NotDeGhost
+description: |-
+  Telephone wires above are sizzlin' like a snare
+  Honey, I'm on fire, [I feel it everywhere](https://osec.io/blog/2022-03-14-solana-security-intro#execution-model)
+
+  `nc {{host}} {{port}}`
+provide:
+  - ./chall.tar.gz
+flag: flag{jump1ng_b4ck_4nd_40rt5_83y1927}
+
